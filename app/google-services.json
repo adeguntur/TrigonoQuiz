@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992085227613",
+    "firebase_url": "https://trigono-online-quiz-app.firebaseio.com",
+    "project_id": "trigono-online-quiz-app",
+    "storage_bucket": "trigono-online-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992085227613:android:c69e504c6c4cb476",
+        "android_client_info": {
+          "package_name": "com.trigonoquiz.ade.trigonoquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992085227613-q80eb0n4d4l5kle1ks4m0pvv04uhno4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trigonoquiz.ade.trigonoquiz",
+            "certificate_hash": "8c1c43434027329d179c5299ac2317595b631fbe"
+          }
+        },
+        {
+          "client_id": "992085227613-vd7l8k75vsjm2399bgk754ti5v74965i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXuldl12--HFJuA1UMHgOTMwo7PFbv24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992085227613-vd7l8k75vsjm2399bgk754ti5v74965i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
